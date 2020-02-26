@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 663900,
+              "duration": 1661000,
               "status": "skipped"
             },
             "line": 4,
@@ -33,7 +33,7 @@
         "steps": [
           {
             "result": {
-              "duration": 12300,
+              "duration": 24600,
               "status": "skipped"
             },
             "line": 8,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 7500,
+              "duration": 22000,
               "status": "skipped"
             },
             "line": 9,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 7900,
+              "duration": 15300,
               "status": "skipped"
             },
             "line": 10,
@@ -88,7 +88,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10700,
+              "duration": 32500,
               "status": "skipped"
             },
             "line": 4,
@@ -110,7 +110,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6600,
+              "duration": 25400,
               "status": "skipped"
             },
             "line": 8,
@@ -132,7 +132,7 @@
           },
           {
             "result": {
-              "duration": 5000,
+              "duration": 24600,
               "status": "skipped"
             },
             "line": 9,
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 4000,
+              "duration": 15800,
               "status": "skipped"
             },
             "line": 10,
@@ -165,7 +165,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10100,
+              "duration": 32200,
               "status": "skipped"
             },
             "line": 4,
@@ -187,7 +187,7 @@
         "steps": [
           {
             "result": {
-              "duration": 13300,
+              "duration": 29500,
               "status": "skipped"
             },
             "line": 20,
@@ -213,7 +213,7 @@
           },
           {
             "result": {
-              "duration": 4600,
+              "duration": 26000,
               "status": "skipped"
             },
             "line": 23,
@@ -234,7 +234,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9800,
+              "duration": 32000,
               "status": "skipped"
             },
             "line": 4,
@@ -256,7 +256,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9000,
+              "duration": 27000,
               "status": "skipped"
             },
             "line": 29,
@@ -268,7 +268,7 @@
           },
           {
             "result": {
-              "duration": 7400,
+              "duration": 23400,
               "status": "skipped"
             },
             "line": 30,
